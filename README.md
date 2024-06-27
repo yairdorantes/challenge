@@ -20,7 +20,7 @@ Este comando creará las imágenes necesarias e iniciará la ejecución del proy
 
 ## Acceso a la API
 
-La API está disponible en alguna las siguientes URLs:
+La API está disponible en alguna de las siguientes URLs:
 
 - `http://0.0.0.0:8000` (Linux)
 - `http://localhost:8000` (Windows)
