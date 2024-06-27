@@ -15,7 +15,7 @@ Este proyecto es un microservicio para la gestión de usuarios y tareas, desarro
 1. Construir y levantar los servicios utilizando Docker Compose:
 
 ```bash
-docker-compose up --build
+docker-compose up
 
 ```
 
